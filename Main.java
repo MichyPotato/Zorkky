@@ -6,10 +6,10 @@
  */
 
 
-/* Michelle Luo’s EXTRA STUFF THAT SHE DID
+/* Michelle Luo’s special features
  * CSV File- load 13 fields into each coordinate in the 2D array
  * REGEX parsing for commands (look at the USE case for best example)
- * Zork-like Game Mechanism where it tells the player what paths next to the current coordinate ate available to go to.
+ * Zork-like Game Mechanism where it tells the player what paths next to the current coordinate are available to go to.
  * Complex Death- Coordinates (loaded thru the CSV) that may contain a higher Chance of Death, and a randomizer selects whether you will die based on that Chance... Useful for further Game Engine development :D if given a bit of extra time, would tweak a bit to make it simpler though.
  */
 
